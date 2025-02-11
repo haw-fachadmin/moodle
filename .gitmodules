@@ -1,0 +1,69 @@
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = https://github.com/danmarsden/moodle-mod_attendance.git
+[submodule "mod/choicegroup"]
+	path = mod/choicegroup
+	url = https://github.com/ndunand/moodle-mod_choicegroup.git
+[submodule "mod/journal"]
+	path = mod/journal
+	url = https://github.com/elearningsoftware/moodle-mod_journal.git
+[submodule "mod/kanban"]
+	path = mod/kanban
+	url = https://github.com/mebis-lp/moodle-mod_kanban.git
+[submodule "mod/pdfannotator"]
+	path = mod/pdfannotator
+	url = https://github.com/rwthmoodle/moodle-mod_pdfannotator.git
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
+[submodule "mod/ratingallocate"]
+	path = mod/ratingallocate
+	url = https://github.com/learnweb/moodle-mod_ratingallocate.git
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+[submodule "blocks/admin_presets"]
+	path = blocks/admin_presets
+	url = https://github.com/DigiDago/moodle-block_admin_presets.git
+[submodule "blocks/completion_progress"]
+	path = blocks/completion_progress
+	url = https://github.com/jonof/moodle-block_completion_progress.git
+[submodule "lib/editor/atto/plugins/styles"]
+	path = lib/editor/atto/plugins/styles
+	url = https://github.com/moodle-an-hochschulen/moodle-atto_styles.git
+[submodule "admin/tool/mergeusers"]
+	path = admin/tool/mergeusers
+	url = https://github.com/jpahullo/moodle-tool_mergeusers.git
+[submodule "course/format/onetopic"]
+	path = course/format/onetopic
+	url = https://github.com/davidherney/moodle-format_onetopic.git
+[submodule "course/format/tiles"]
+	path = course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+[submodule "theme/boost_union"]
+	path = theme/boost_union
+	url = https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git
+[submodule "local/contact"]
+	path = local/contact
+	url = https://github.com/michael-milette/moodle-local_contact.git
+[submodule "local/mailtest"]
+	path = local/mailtest
+	url = https://github.com/michael-milette/moodle-local_mailtest.git
+[submodule "local/resort_courses"]
+	path = local/resort_courses
+	url = https://github.com/moodle-an-hochschulen/moodle-local_resort_courses.git
+[submodule "local/staticpage"]
+	path = local/staticpage
+	url = https://github.com/moodle-an-hochschulen/moodle-local_staticpage.git
+[submodule "mod/eportfolio"]
+	path = mod/eportfolio
+	url = https://github.com/weqon/moodle-mod_eportfolio.git
+[submodule "mod/learningmap"]
+	path = mod/learningmap
+	url = https://github.com/mebis-lp/mod_learningmap.git
+[submodule "blocks/eportfolio"]
+	path = blocks/eportfolio
+	url = https://github.com/weqon/moodle-block_eportfolio.git
+[submodule "local/eportfolio"]
+	path = local/eportfolio
+	url = https://github.com/weqon/moodle-local_eportfolio.git
